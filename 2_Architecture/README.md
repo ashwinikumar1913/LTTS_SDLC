@@ -1,13 +1,13 @@
 # Architecture
 
 ## Data Flow Diagram
-<img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/2_Architecture/Data%20flow%20daigram/data%20flow%20daigram.png" width="750">  
+<img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/2_Architecture/Data%20flow%20daigram/data%20flow%20daigram.png">  
 
 ## Use Case Diagram
 <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/2_Architecture/Class%20base%20daigram/class%20base%20daigram.png" width="750"> 
 
 ## Class Base Diagram
-<img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/2_Architecture/3_ClassBase_Diagram/Class_Diagram.jpg" width="750"> 
+<img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/2_Architecture/Class%20base%20daigram/class%20base%20daigram.png"> 
 
 ## Seqeunce Diagram
 
