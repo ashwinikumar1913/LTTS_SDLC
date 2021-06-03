@@ -1,13 +1,13 @@
 # Images
 
 ## Following are the screenshots of the project:
-1. Home_Page
+1. EVM_Sealing_Process
 
-   <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/1_Home_Page.png"/>
+   <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/evm%20sealing%20process.JPG"/>
 
-2. Registration_Page
+2. Issue_with_Current_EVM
 
-    <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/2_Registration_Page.png"/>
+    <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/issue.JPG"/>
 
 3. Login_Page
 
