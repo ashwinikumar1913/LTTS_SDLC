@@ -12,15 +12,7 @@
 ## Seqeunce Diagram
 
 ### Sequence_Diagram_For_Log_In
-<img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/2_Architecture/4_Sequence_Diagram/1_Sequence_Diagram_For_Log_In.jpg" width="500"> 
-
-### Sequence_Diagram_For_Controlling_Fan
-<img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/2_Architecture/4_Sequence_Diagram/2_Sequence_Diagram_For_Controlling_Fan.jpg" width="500">
-
-### Sequence_Diagram_For_Controlling_Light
-<img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/2_Architecture/4_Sequence_Diagram/3_Sequence_Diagram_For_Controlling_Light.jpg" width="500">
-
-
+<img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/2_Architecture/Sequence%20daigram/sequence%20daigram.jpg" width="500"> 
 
 
 
