@@ -9,21 +9,18 @@
 
     <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/issue.JPG"/>
 
-3. Login_Page
+3. Whole_Process
 
-    <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/3_Login_Page.png"/>
+    <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/process.JPG"/>
 
-4. Dasboard_Page
+4. Proposed_Architecture
 
-    <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/4_Dasboard_Page.png"/>
+    <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/proposed%20model.JPG"/>
 
-5. FAQ_Page
+5. Tampering 
 
-    <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/5_FAQ_Page.png"/>
+    <img src="https://github.com/ashwinikumar1913/LTTS_SDLC/blob/main/6_Images/tampering.JPG"/>
 
-6. Controll_Center_Page
-
-    <img src="https://github.com/shivamnarware/SDLC_LTTS_Minor_Project/blob/main/6_ImagesAndVideos/6_Controll_Center_Page.png"/>
 
 
 
