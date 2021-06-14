@@ -15,8 +15,8 @@ Folder             | Description
 
 SF No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`52` | Ashwini Kumar | User Module, Dashboards, DB, FireBase, Controll Center     | Nil     | Blog Side   | 2   | YES    
-`48` | Dr.Ruhul amin | Hardware Module | Hardware Side |Connection With firebase  | 1 | YES
+`52` | Ashwini Kumar | User Module     | Nil     | Blog Side   | 2   | YES    
+`48` | Dr.Ruhul amin | Hardware Module | Physical Architecture  | 1 | YES
 
 ## Challenges Faced and How Was It Overcome
 
